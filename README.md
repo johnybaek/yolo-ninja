@@ -16,4 +16,4 @@ My first strategy is to manage common data collection from an open source commun
 
 Why not use Google Docs? I love Google Docs, but the fact of the matter is that not everyone works in a Google environment. Therefore, this creates a barrier to sharing and collaborating which I'm trying to avoid. 
 
-Why not use Google Sites? Two reasons. First, I'm lazy enough that I don't want to request IT to set up another Google Site account or ask to change the permission level on the site that I already have. Plus content editing is a bit of a pain. Second, changes to the website are not tracked, so changes are very difficult to track. 
+Why not use Google Sites? Two reasons. First, I'm lazy enough that I don't want to request IT to set up another Google Site account or ask to change the permission level on the site that I already have. Second, changes to the website are not tracked, so changes are very difficult to track. Plus, content editing is a bit of a pain. Oh, that's three.  
