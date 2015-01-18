@@ -43,3 +43,20 @@
 * NESP Objective 1.2. Formal and informal educators integrate ocean, coastal, Great Lakes, weather and climate sciences into their teaching, curricula and interpretive products and programs.
 * NESP Objective 2.2. Formal and informal educators increase the integration of NOAA-related conservation and stewardship information in education programs, materials and curricula.
 * NESP Objective 3.2. Formal and informal educators utilize and produce education materials and programs that integrate and promote consistent science-based messaging on hazards, impacts and societal challenges related to water, weather and climate.
+
+## Data
+*Administrative Records*: Each NOAA-supported professional development program is responsible for maintaining administrative records that document the number of participants for the lifetime of the program.
+
+*Unified Data Call*: An annual collection of output measures, disaggregations, and outyear estimates data from each Education Council administrative unit.
+* Data collected in the Unified Data Call is used for internal NOAA reporting, Annual Operating Plan (AOP) and Strategy Execution and Evaluation (SEE), and external reporting, NOAA Education Annual Accomplishments Report, Congressional and other leadership briefings. A few questions in the UDC are used for internal quality control purposes, to verify data quality. 
+* B-WET Exception: Since NERRS and SG can be grantees of BWET and ELG grant programs, there will likely be some double-counting of data reported. Whenever possible, both the grantees and the grant programs should report their numbers and provide additional detail on how much comes from grants awarded to NERRS, SG and other Education Council administrative units.  
+
+*Outcome Measure Data Collection Form*: An annual collection of outcome measure data from each Education Council administrative unit.
+* Data collected includes: 1) number of participants, 2) number of responses, 3) number for each response option, 4) type of data collection, and 5) copy of data collection instrument.
+
+*Participant Survey*: A structured set of questions and response options used to collect information about participants and their thoughts and perceptions in relation to elements of the program. 
+* For lagging outcomes, collect and report data on programs implemented in the prior federal fiscal year. The period of time following program completion can be a maximum of one year, this will vary by program and depends on the program theory. Three and six-month intervals are common. PRA clearance are needed for programs delivered by NOAA staff. For additional guidance see footnote 1.
+* Standardized items should be embedded as part of an existing instrument or can be asked on their own. See best practices: Developing a new survey.
+* Collect responses from all participants--or as many as possible. See best practices: Getting a good response rate.
+
+*Standardized Item #1*: Modify question and response option text in the [square brackets] as needed based on the program content and design 2. 
