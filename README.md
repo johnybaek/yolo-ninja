@@ -1,13 +1,13 @@
-# Professional Development Programs
+# Readme
 
-## Measures
+## Folders
 
-*Output*: Number of educators who participated in NOAA-supported professional development programs that enhance understanding of NOAA-related topics and use of NOAA educational and scientific resources.
+*Definitions*: In this folder, you'll find common measure definitions in stored as markdown files.
 
-*Leading Outcome*: Percent of educators who intend to integrate what they learned in NOAA-supported professional development programs to educate others about NOAA-related topics or with NOAA educational and scientific resources.
+*Forms*: In this folder, you'll find find common forms for collecting data. Format TBD.
 
-*Lagging Outcome*: Percent of educators who integrated what they learned in NOAA-supported professional development programs to educate others about NOAA-related topics or with NOAA educational and scientific resources.
+*Analysis*: In this folder, you'll find scripts for managing data and analyzing data. Format TBD.
 
-## Definitions
+## About
 
-
+This project is my first attempt at using github for anything. My first strategy is to manage common data collection from an open source community approach. By making the project available online, public, and forkable, I hope to decrease the limits to sharing and increase the adoption of definitions and tools that get developed along the way. 
