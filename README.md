@@ -10,7 +10,7 @@
 
 ## About
 
-This project is my first attempt at using github for anything. I'm not trying to hide the fact that this is a learning experiment for me. My learning goal is to incorporate for coding into my daily practice. Working in a coding environment that is still user-friendly enough to my collaborators is a good starting point. 
+This project is my first attempt at using github for anything. I'm not trying to hide the fact that this is a learning experiment for me. My learning goal is to incorporate more coding into my daily practice. Working in a coding environment that is still user-friendly enough to my collaborators is a good starting point even if I'm not doing any coding per se. The environment also forces me to think in code rather than end products.
 
 My first strategy is to manage common data collection from an open source community approach. By making the project available online, public, and forkable, I hope to decrease the limits to sharing and increase the adoption of definitions and tools that get developed along the way. All changes are open to inspection and not obscured by the editing platform. 
 
